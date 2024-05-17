@@ -1,4 +1,4 @@
- [![]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasgomes30/](https://capsule-render.vercel.app/api?type=rounded&height=300&color=ffa500&text=Seja%20bem%20vindo%20(a)%&section=header&reversal=false&textBg=false&fontAlign=50))
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0ac47&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+LUCAS+GOMES;SOU+ESTUDANTE+DE+SISTEMAS+DE+INFORMAÇÃO;:%29)](https://git.io/typing-svg)
 
