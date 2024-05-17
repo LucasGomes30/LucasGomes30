@@ -5,14 +5,13 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>Meu nome é Lucas Gomes
-  Sou brasileiro e atualmente estou focado em ser Desenvolvedor full stack</summary>
+  <summary>Meu nome é Lucas Gomes<br>
+    Sou brasileiro e atualmente estou focado em ser Desenvolvedor full stack</summary>
 
 
 ## 🔥 Contatos
 <!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasgomes30/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasgomes30/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/lucas-gomes-5644a31a3/)
 
 <!-- GithubStats -->
