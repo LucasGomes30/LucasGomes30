@@ -1,3 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffa500height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0ac47&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+LUCAS+GOMES;!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edsonrdl&bg_color=0d1117&color=991ae6&line=7B7B7B&point=FEFEFE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--título-->
 <div id="user-content-toc">
@@ -12,11 +17,9 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨🏿‍💻</summary>
 
-  - 💬 I am 25 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
 <!-- Links -->
