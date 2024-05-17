@@ -3,12 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0ac47&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+LUCAS+GOMES;!+:%29)](https://git.io/typing-svg)
 
 
-
-<!-- Presentation -->
-<p>
-  Olá 👋,  meu nome é Lucas Gomes.
-</p>
-
 <!-- Dropdown -->
 <details>
   <summary>👨🏿‍💻</summary>
