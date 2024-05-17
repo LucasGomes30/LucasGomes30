@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0ac47&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+LUCAS+GOMES;SOU+ESTUDANTE+DE+SISTEMAS+DE+INFORMAÇÃO;:%29)](https://git.io/typing-svg)
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="900">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="260">
 <br><br>
 
 ## 🔥 Contatos
