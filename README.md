@@ -1,13 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0ac47&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+LUCAS+GOMES;!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0ac47&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+LUCAS+GOMES;SOU+ESTUDANTE+DE+SISTEMAS+DE+INFORMAÇÃO;:%29)](https://git.io/typing-svg)
 
-
-<!-- Dropdown -->
-<details>
-  <summary>Meu nome é Lucas Gomes<br>
-    Sou brasileiro e atualmente estou focado em ser Desenvolvedor full stack</summary>
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="900">
+<br><br>
 
 ## 🔥 Contatos
 <!-- Skills: Programming Languages -->
@@ -19,7 +15,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/lucasgomes30/lucasgomes30/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/lucasgomes30/lucasgomes30/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7">
 </p>
 
 ## 🔥 Skills
