@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0ac47&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+LUCAS+GOMES;!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edsonrdl&bg_color=0d1117&color=991ae6&line=7B7B7B&point=FEFEFE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LUCAS GOMES&bg_color=0d1117&color=991ae6&line=7B7B7B&point=FEFEFE&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--título-->
 <div id="user-content-toc">
